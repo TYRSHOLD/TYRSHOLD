@@ -6,7 +6,7 @@ Currently building:
 - Jarvis AI Assistant
 - Full-stack applications
 - AI-powered developer tools
-- ## Tech Stack
+- Tech Stack
 
 - JavaScript
 - React
@@ -16,3 +16,11 @@ Currently building:
 - MySQL
 - C++
 - OpenAI APIs
+
+Featured Projects
+
+Jarvis AI Assistant
+AI-powered productivity assistant with automation and intelligent workflows.
+
+IQTEST
+Interactive JavaScript-based IQ testing platform with dynamic scoring.
