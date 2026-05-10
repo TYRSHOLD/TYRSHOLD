@@ -4,5 +4,15 @@ Frontend-focused software engineer passionate about AI systems, automation, and 
 
 Currently building:
 - Jarvis AI Assistant
-- Full stack applications
+- Full-stack applications
 - AI-powered developer tools
+- ## Tech Stack
+
+- JavaScript
+- React
+- Next.js
+- Node.js
+- Swift
+- MySQL
+- C++
+- OpenAI APIs
